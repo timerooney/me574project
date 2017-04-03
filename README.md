@@ -1,1 +1,1 @@
-# me574project
+# ME574 Project

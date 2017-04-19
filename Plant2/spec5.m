@@ -86,6 +86,6 @@ tracking_error = tracking_error*100
 
 Ts5=NaN;
 Nf5=NaN;
-K1=NaN;
-Nc5 = [6000, 606000, 606000, 600000]
-Dc5 = [6020, 606240, 608000, 600000]
+K5=NaN;
+Nc5 = [1000, 1000, 1000]
+Dc5 = [1]

@@ -111,4 +111,4 @@ ISE = trapz(t_stepe, y_stepe.^2)
 Ts2=Ts
 Nf2=NaN;
 K2=NaN;
-[Nc2, Dc2] = tfdata(Try_z, 'v')
+[Nc2, Dc2] = tfdata(Gc_z, 'v');

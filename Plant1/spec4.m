@@ -95,4 +95,4 @@ Fs
 Ts4=Ts
 Nf4=NaN;
 K4=NaN;
-[Nc4, Dc4] = tfdata(Try_z, 'v')
+[Nc4, Dc4] = tfdata(Gc_z, 'v')

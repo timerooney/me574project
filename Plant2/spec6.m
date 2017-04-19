@@ -83,8 +83,8 @@ IAE = sum(abs(y-Yss)*Dt)
 Ts6=NaN;
 Nf6=NaN;
 K6=NaN;
-Nc6 = [30.57, 3122, 6492, 13.76]
-Dc6 = [0.2, 22.4, 290.6, 5122, 6492, 13.76]
+Nc6 = [5.0953, 10.8195, 0.02293]
+Dc6 = [0.01, 1, 0]
 
 %% Convert to discrete
 % Find initial guess at Fs and Ts
